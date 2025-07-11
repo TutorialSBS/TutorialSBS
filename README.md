@@ -23,8 +23,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-https://github.com/TutorialSBS/ImageTest/blob/071d9b032b38a697987a15d65ac5b7f755c3f0fa/Image/KakaoTalk_20250127_174901548.png
-
+![My banner](https://github.com/TutorialSBS/ImageTest/raw/main/Image/KakaoTalk_20250127_174901548.png)
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>

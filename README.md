@@ -23,7 +23,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-![My banner](https://raw.githubusercontent.com/TutorialSBS/ImageTest/main/Image/KakaoTalk_20250127_174901548.png)
+![My banner](https://raw.githubusercontent.com/TutorialSBS/ImageTest/main/Image/Image/TestImage.png)
 
 ###
 

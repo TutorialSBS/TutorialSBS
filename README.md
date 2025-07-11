@@ -23,7 +23,8 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-![My banner](https://raw.githubusercontent.com/TutorialSBS/ImageTest/main/Image/Image/TestImage.png)
+<img src="https://raw.githubusercontent.com/TutorialSBS/ImageTest/main/Image/Image/TestImage.png" width="800"/>
+
 
 ###
 
